@@ -11,11 +11,11 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["593993370003", '𝙋𝙍𝙊𝙔𝙀𝘾𝙏𝙊 𝙓', true], //Elitebot
+["593993370003", '𝙆𝙄𝙉𝘼𝙏𝘼 𝘽𝙊𝙏', true], //Elitebot
 ["593993370003"], 
 ["593979133620"], 
 ["593993370003"], 
-["593980586516"],
+["584124159874"],
 ["593989920544"],
 ["593993370003"],
 ["593993370003"]]
@@ -114,15 +114,15 @@ global.desc = ''; //agrega una descripción corta
 global.desc2 = ''; //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = ''; //agrega tú país ejemplo: 🇪🇨
 
-global.packname = "𝙋𝙍𝙊𝙔𝙀𝘾𝙏𝙊 𝙓";
+global.packname = "𝙆𝙄𝙉𝘼𝙏𝘼 𝘽𝙊𝙏";
 global.author = "@Jeffomx15";
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
-global.vs = "𝙋𝙍𝙊𝙔𝙀𝘾𝙏𝙊 𝙓";
+global.vs = "𝙆𝙄𝙉𝘼𝙏𝘼 𝘽𝙊𝙏";
 global.vsJB = "2.0";
 
-global.gt = "𝙋𝙍𝙊𝙔𝙀𝘾𝙏𝙊 𝙓";
+global.gt = "𝙆𝙄𝙉𝘼𝙏𝘼 𝘽𝙊𝙏";
 global.yt = "";
 global.yt2 = "";
 global.ig = "";
@@ -177,8 +177,8 @@ global.exito = eg;
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "𝙋𝙍𝙊𝙔𝙀𝘾𝙏𝙊 𝙓 ";
-global.igfg = "𝙋𝙍𝙊𝙔𝙀𝘾𝙏𝙊 𝙓";
+global.wm = "𝙆𝙄𝙉𝘼𝙏𝘼 𝘽𝙊𝙏";
+global.igfg = "𝙆𝙄𝙉𝘼𝙏𝘼 𝘽𝙊𝙏";
 global.wait = "*🚀 P R O C E S A N D O*";
 global.waitt = "*🚀 P R O C E S A N D O*";
 global.waittt = "*🚀 P R O C E S A N D O*";
