@@ -12,7 +12,7 @@ const handler = async (m, {conn, args, usedPrefix, command}) => {
     const mime = (q.msg || q).mimetype || q.mediaType || '';
     if (/webp|image|video/g.test(mime)) {
       const img = await q.download?.();
-      if (!img) throw `Y la imagen? ${usedPrefix + command}*`;
+      if (!img) throw `Y la imagen?`;
       let out;
       try {
         stiker = await sticker(img, false, global.packname, global.author);
