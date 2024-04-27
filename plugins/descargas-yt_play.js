@@ -13,7 +13,7 @@ if (command === 'play') {
 additionalText = '𝘼𝙐𝘿𝙄𝙊'
 } else if (command === 'play2') {
 additionalText = '𝙑𝙄𝘿𝙀𝙊 🎥'}
-let captionvid = `» 𝘾𝘼𝙉𝘾𝙄𝙊́𝙉  : ${yt_play[0].title}
+let captionvid = `⚡ 𝙏𝙄𝙏𝙐𝙇𝙊 : ${yt_play[0].title}
 > 𝙆𝙄𝙉𝘼𝙏𝘼 𝘽𝙊𝙏`  
 await conn.sendMessage(m.chat, {
 text: captionvid,
