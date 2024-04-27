@@ -8,7 +8,7 @@ import axios from "axios"
 import moment from "moment-timezone"
 import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 
-//⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
+//⊱ ━━━.━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
 ["593993370003", '𝙆𝙄𝙉𝘼𝙏𝘼 𝘽𝙊𝙏', true], //Elitebot
