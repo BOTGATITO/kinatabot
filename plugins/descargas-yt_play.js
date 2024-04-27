@@ -10,13 +10,13 @@ try {
 const yt_play = await search(args.join(" "))
 let additionalText = ''
 if (command === 'play') {
-additionalText = '𝘼𝙐𝘿𝙄𝙊 🎧'
+additionalText = '𝘼𝙐𝘿𝙄𝙊'
 } else if (command === 'play2') {
 additionalText = '𝙑𝙄𝘿𝙀𝙊 🎥'}
-let captionvid = `» 𝙏𝙄𝙏𝙐𝙇𝙊 : ${yt_play[0].title}
+let captionvid = `» 𝘾𝘼𝙉𝘾𝙄𝙊́𝙉  : ${yt_play[0].title}
 » 𝘿𝙐𝙍𝘼𝘾𝙄𝙊𝙉 : ${secondString(yt_play[0].duration.seconds)}
 » 𝙀𝙉𝙑𝙄𝘼𝙉𝘿𝙊 ${additionalText}
-𝙆𝙄𝙉𝘼𝙏𝘼 𝘽𝙊𝙏`  
+> 𝙆𝙄𝙉𝘼𝙏𝘼 𝘽𝙊𝙏`  
 await conn.sendMessage(m.chat, {
 text: captionvid,
 contextInfo: {
