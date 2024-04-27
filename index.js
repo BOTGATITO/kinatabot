@@ -18,7 +18,7 @@ say('KINATA\nBOT', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
-say(`Project Author:\n(@jeffomx15)\n\nColaborador:\nCLAN TOP ELITE`, {
+say(`Project Author:\n(@jeffomx15)\n\nColaborador:\nELITE BOT GLOBAL`, {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']});
