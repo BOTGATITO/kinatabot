@@ -123,26 +123,26 @@ global.vs = "𝙆𝙄𝙉𝘼𝙏𝘼 𝘽𝙊𝙏";
 global.vsJB = "2.0";
 
 global.gt = "𝙆𝙄𝙉𝘼𝙏𝘼 𝘽𝙊𝙏";
-global.yt = "https://whatsapp.com/channel/0029VaYba45JP219u8yR031P";
-global.yt2 = "https://whatsapp.com/channel/0029VaYba45JP219u8yR031P";
-global.ig = "https://whatsapp.com/channel/0029VaYba45JP219u8yR031P";
-global.md = "https://whatsapp.com/channel/0029VaYba45JP219u8yR031P";
-global.fb = "https://whatsapp.com/channel/0029VaYba45JP219u8yR031P";
+global.yt = "";
+global.yt2 = "";
+global.ig = "";
+global.md = "";
+global.fb = "";
 
-global.nna = 'https://whatsapp.com/channel/0029VaYba45JP219u8yR031P' //UPDATE 
-global.nn2 = 'https://whatsapp.com/channel/0029VaYba45JP219u8yR031P' //UPDATE 2
-global.nna2 = 'https://whatsapp.com/channel/0029VaYba45JP219u8yR031P' //Help
-global.nn = 'https://whatsapp.com/channel/0029VaYba45JP219u8yR031P' //Grupo 1
-global.nnn = 'https://whatsapp.com/channel/0029VaYba45JP219u8yR031P' //Grupo 2
-global.nnnt = 'https://whatsapp.com/channel/0029VaYba45JP219u8yR031P' //Grupo 3
-global.nnntt = 'https://whatsapp.com/channel/0029VaYba45JP219u8yR031P' //Grupo 4
-global.nnnttt = 'https://whatsapp.com/channel/0029VaYba45JP219u8yR031P' //Grupo 5
-global.nnnttt1 = 'https://whatsapp.com/channel/0029VaYba45JP219u8yR031P' //Grupo 6 COL
-global.nnnttt2 = 'https://whatsapp.com/channel/0029VaYba45JP219u8yR031P' //Grupo 7 COL
-global.nnnttt3 = 'https://whatsapp.com/channel/0029VaYba45JP219u8yR031P' //Grupo 8 COL
-global.nnnttt4 = 'https://whatsapp.com/channel/0029VaYba45JP219u8yR031P' //Grupo 9 COL
-global.nnnttt5 = 'https://whatsapp.com/channel/0029VaYba45JP219u8yR031P' //A.T.M.M
-global.paypal = 'https://whatsapp.com/channel/0029VaYba45JP219u8yR031P'
+global.nna = '' //UPDATE 
+global.nn2 = '' //UPDATE 2
+global.nna2 = '' //Help
+global.nn = '' //Grupo 1
+global.nnn = '' //Grupo 2
+global.nnnt = '' //Grupo 3
+global.nnntt = '' //Grupo 4
+global.nnnttt = '' //Grupo 5
+global.nnnttt1 = '' //Grupo 6 COL
+global.nnnttt2 = '' //Grupo 7 COL
+global.nnnttt3 = '' //Grupo 8 COL
+global.nnnttt4 = '' //Grupo 9 COL
+global.nnnttt5 = '' //A.T.M.M
+global.paypal = ''
 global.asistencia = 'Wa.me/593993370003' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
