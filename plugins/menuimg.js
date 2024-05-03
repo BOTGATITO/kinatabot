@@ -28,9 +28,8 @@ lugarFecha.locale('es', formatoFecha)
 const horarioFecha = lugarFecha.format('dddd,DD [de] MMMM [del] YYYY│[Hora:]HH:mm A').replace(/^\w/, (c) => c.toUpperCase())
 
 let menu = `┏━━━━━━━━━━━━━━━━┓
-┃ 𝙃𝙊𝙇𝘼 𝙅𝙀𝙁𝙀, 𝙔𝙀𝙄𝙆𝙊
+┃ 𝙃𝙊𝙇𝘼
 ┃ ¿𝙀𝙉 𝙌𝙐𝙀 𝙋𝙐𝙀𝘿𝙊 𝘼𝙔𝙐𝘿𝘼𝙍𝙏𝙀?
-┃ 𝙎𝙊𝙔 𝙁𝙉 𝙀𝙎𝙋𝙊𝙍𝙏 🤖
 ┗━━━━━━━━━━━━
 
 ┏━━━━━━━━━━━━━━━━┓
@@ -330,7 +329,7 @@ let menu = `┏━━━━━━━━━━━━━━━━┓
 
  `.trim()
  
-const img = ['https://telegra.ph/file/7762d40cf5c5bf2ddd0ab.jpg']
+const img = ['https://telegra.ph/file/917ce4dc19983f9f9ade9.jpg']
 await conn.sendMessage(m.chat, { image: { url: img.getRandom() }, gifPlayback: true, caption: menu, mentions: [m.sender, global.conn.user.jid] }, { quoted: fkontak })
 	
 } catch (e) {
