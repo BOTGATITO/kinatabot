@@ -427,7 +427,7 @@ ${wm}`, fkontak, { mentions: [aa,] })
 //conn.sendMessage(m.chat, texto, {quoted: fkontak})	
 throw false
 }
-await conn.reply(m.chat, `${lenguajeGB['smsAvisoRG']()}👽 ${lenguajeGB['smsMens1']()} *|* ${type} 
+await conn.reply(m.chat, `👽 ${lenguajeGB['smsMens1']()} *|* ${type} 
 👽 ${lenguajeGB['smsMens2']()} *|* ${isEnable ? lenguajeGB.smsEncender() : lenguajeGB.smsApagar()} 
 👽 ${lenguajeGB['smsMens3']()} *|* ${isAll ? lenguajeGB.smsMens4() : isUser ? '' : lenguajeGB.smsMens5()}`, fkontak, m)}	
 /*await conn.sendButton(m.chat, `${lenguajeGB['smsAvisoRG']()}ღ *_${lenguajeGB['smsMens1']()}_* *|* ${type} 
