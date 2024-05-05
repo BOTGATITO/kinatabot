@@ -332,7 +332,7 @@ let menu = `┏━━━━━━━━━━━━━━━━┓
 
  `.trim()
  
-const img = ['https://telegra.ph/file/917ce4dc19983f9f9ade9.jpg']
+const img = ['https://telegra.ph/file/28d33c4faacc58809d7b6.jpg']
 await conn.sendMessage(m.chat, { image: { url: img.getRandom() }, gifPlayback: true, caption: menu, mentions: [m.sender, global.conn.user.jid] }, { quoted: fkontak })
 	
 } catch (e) {
